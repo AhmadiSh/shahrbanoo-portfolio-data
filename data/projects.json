@@ -1,23 +1,31 @@
 {
   "projects":[
-     {
-    "id":0,
-    "title": "RedGuard",
-       "slug":"",
-    "summary": "A smarter, calmer way to track spending and reach savings goals.",
-       "description":"",
-    "category": {
-      "id":0,
-      "name":"Finance"
-    },
-    "type":"APP",
-      "cover":"",
-       "gallery":[],
-    "color": "violet",  
-    "tags": ["Flutter", "Firebase", "Riverpod"],
-       "githubUrl":"",
-       "url":""
-  },
+   {
+      "id": 0,
+      "title": "RedGuard",
+      "slug": "redguard",
+      "summary": "An IoT mobile application for monitoring and controlling connected devices.",
+      "description": "RedGuard is a new generation of intelligent security systems based on the Internet of Things (IoT). This burglar alarm system for places is entirely independent. The SIM card installed on it allows Internet connection, SMS, and voice calls to send security alerts and control electrical equipment.",
+      "category": {
+        "id": 0,
+        "name": "IoT"
+      },
+      "type": "APP",
+      "cover": "/projects/redguard/cover.jpg",
+      "gallery": [
+        "/projects/redguard/screenshot-1.png",
+        "/projects/redguard/screenshot-2.png"
+      ],
+      "color": "#ad100a",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Clean Architecture",
+        "IoT"
+      ],
+      "githubUrl": "",
+      "url": "https://apps.apple.com/us/app/redguard/id6753646380"
+    }
   ]
 }
   
