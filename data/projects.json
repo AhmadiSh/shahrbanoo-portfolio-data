@@ -1,0 +1,23 @@
+{
+  "projects":[
+     {
+    "id":0,
+    "title": "RedGuard",
+       "slug":"",
+    "summary": "A smarter, calmer way to track spending and reach savings goals.",
+       "description":"",
+    "category": {
+      "id":0,
+      "name":"Finance"
+    },
+    "type":"APP",
+      "cover":"",
+       "gallery":[],
+    "color": "violet",  
+    "tags": ["Flutter", "Firebase", "Riverpod"],
+       "githubUrl":"",
+       "url":""
+  },
+  ]
+}
+  
