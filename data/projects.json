@@ -31,7 +31,7 @@
       "title": "SmartTech+",
       "slug": "smartTech",
       "summary": "A Flutter-based IoT application for remotely monitoring, managing, and controlling connected smart security devices.",
-      "description": "Smart Tech+ is an IoT-based mobile application designed to provide centralized access to connected security devices. It bridges hardware and software, enabling users to interact with their security systems through an intuitive mobile experience.",
+      "description": "SmartTech+ is an IoT-based mobile application designed to provide centralized access to connected security devices. It bridges hardware and software, enabling users to interact with their security systems through an intuitive mobile experience.",
       "category": {
         "id": 0,
         "name": "IoT"
